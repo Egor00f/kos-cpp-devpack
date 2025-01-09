@@ -1,0 +1,9 @@
+Package: kos-cpp-devpack
+Version: 0.0.1
+Section: devel
+Depends: kos32-gcc
+Architecture: all
+Priority: optional
+Homepage: https://github.com/Egor00f/kos-cpp-devpack
+Maintainer: Egor00f <velikiydolbayeb@gmail.com>
+Description: Pack of utils for development for KolibriOS
